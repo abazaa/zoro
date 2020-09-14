@@ -2442,7 +2442,7 @@ return [[
 
 ༆-[𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍✯](t.me/xb_1b)
 
-༆-[𝐓𝐎 𝐓𝐀𝐋?? 𝐓𝐎 𝐔𝐒✯](t.me/Tawaslzorobot)
+༆-[𝐓𝐎 𝐓𝐀𝐋𝐊 𝐓𝐎 𝐔𝐒✯](t.me/Tawaslzorobot)
 ]]
 end
 
